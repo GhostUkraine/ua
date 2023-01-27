@@ -1,0 +1,382 @@
+body{
+    margin: 0;
+    background-image: url(о.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.l{
+    position: absolute;
+width: 180px;
+height: 180px;
+left: 422px;
+top: 31px;}
+.o{
+position: absolute;
+width: 180px;
+height: 180px;
+left: 1338px;
+top: 31px;}
+.sol{
+position: absolute;
+width: 154px;
+height: 167.28px;
+left: 494px;
+top: 719.5px;}
+.sol2{
+position: absolute;
+width: 154px;
+height: 167.28px;
+left: 494px;
+top: 933.61px;}
+.sol3{
+    position: absolute;
+width: 154px;
+height: 167.28px;
+left: 494px;
+top: 1147.73px;}
+.sol4{
+    position: absolute;
+width: 154px;
+height: 167.28px;
+left: 494px;
+top: 1361.85px;}
+.sol5{
+    position: absolute;
+width: 150px;
+height: 150px;
+left: 494px;
+top: 1704px;}
+.sol6{
+    position: absolute;
+width: 150px;
+height: 150px;
+left: 494px;
+top: 1895px;}
+.sol7{
+    position: absolute;
+width: 150px;
+height: 150px;
+left: 494px;
+top: 2086px;}
+.strel{
+    position: absolute;
+width: 150px;
+height: 150px;
+left: 894px;
+top: 3268px;}
+.gope{  
+position: absolute;
+width: 100px;
+height: 100px;
+left: 355px;
+top: 3709px;
+}
+.u{
+    position: absolute;
+width: 190px;
+height: 378.43px;
+left: 396px;
+top: 2565px;}
+.r{
+    position: absolute;
+width: 190px;
+height: 360.7px;
+left: 646px;
+top: 2556px;}
+.s{
+    position: absolute;
+width: 190px;
+height: 370.84px;
+left: 894px;
+top: 2546px;}
+.lt{
+    position: absolute;
+width: 190px;
+height: 351.64px;
+left: 1175px;
+top: 2565px;}
+.k{
+    position: absolute;
+width: 190px;
+height: 363.19px;
+left: 1424px;
+top: 2565px;}
+.discord{
+    position: absolute;
+width: 180px;
+height: 174px;
+left: 455px;
+top: 3535px;}
+.telegram{
+    position: absolute;
+width: 180px;
+height: 174px;
+left: 733px;
+top: 3535px;}
+.youtube{
+    position: absolute;
+width: 180px;
+height: 174px;
+left: 1011px;
+top: 3535px;}
+.file{
+    position: absolute;
+width: 180px;
+height: 174px;
+left: 1289px;
+top: 3535px;}
+.vit{
+    position: absolute;
+width: 1096px;
+height: 59.86px;
+left: 422px;
+top: 284px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 61px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;}
+.vit2{
+    position: absolute;
+width: 953px;
+height: 63.98px;
+left: 494px;
+top: 391.33px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 61px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;}
+.vit3{
+    position: absolute;
+width: 636px;
+height: 60px;
+left: 652px;
+top: 480px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 67px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;}
+.vit4{
+    position: absolute;
+width: 637.25px;
+height: 61px;
+left: 648.33px;
+top: 613px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 67px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;}
+.vit5{
+    position: absolute;
+width: 431.4px;
+height: 114.34px;
+left: 797.99px;
+top: 746.4px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;}
+.vit6{
+    position: absolute;
+width: 544px;
+height: 114px;
+left: 798px;
+top: 974px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+display: flex;
+align-items: center;
+
+color: #000000;}
+.vit7{
+    position: absolute;
+width: 285.88px;
+height: 71.75px;
+left: 798px;
+top: 1231px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+display: flex;
+align-items: center;
+
+color: #000000;}
+.vit8{
+    position: absolute;
+width: 789.52px;
+height: 114.34px;
+left: 797.99px;
+top: 1402.2px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+display: flex;
+align-items: center;
+
+color: #000000;}
+.vit9{
+    position: absolute;
+    width: 936px;
+    height: 102px;
+    left: 743px;
+    top: 1602px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 67px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;}
+.vit10{position: absolute;
+    width: 936px;
+    height: 102px;
+    left: 778px;
+    top: 1728px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;}
+.vit11{position: absolute;
+    width: 936px;
+    height: 102px;
+    left: 773px;
+    top: 1919px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;}
+.vit12{position: absolute;
+    width: 936px;
+    height: 102px;
+    left: 778px;
+    top: 2121px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;}
+.vit13{
+    position: absolute;
+width: 226px;
+height: 60px;
+left: 823px;
+top: 2407px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;}
+.vit14{
+    position: absolute;
+width: 666px;
+height: 108px;
+left: 607px;
+top: 3042px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 61px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;}
+.gope2{position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 1169px;
+    top: 3746px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;}
+
+    section {
+        padding: 0 calc(50% - 554px);
+      }
+
+
+
